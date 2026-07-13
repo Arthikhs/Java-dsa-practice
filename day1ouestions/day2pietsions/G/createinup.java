@@ -1,3 +1,4 @@
+package day1ouestions.day2pietsions.G;
 import java.util.Scanner;
 public class createinup {
     public static void main(String[] args){

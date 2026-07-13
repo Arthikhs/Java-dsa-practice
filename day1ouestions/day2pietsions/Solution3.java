@@ -1,4 +1,4 @@
-package day2pietsions;
+package day1ouestions.day2pietsions;
 
 class Solution3{
     public String addBinary(String a, String b) {

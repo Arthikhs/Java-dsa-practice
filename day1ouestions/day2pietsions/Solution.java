@@ -1,4 +1,4 @@
-package day2pietsions;
+package day1ouestions.day2pietsions;
 
 public import java.util.Stack;
 

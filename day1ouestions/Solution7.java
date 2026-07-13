@@ -1,3 +1,4 @@
+package day1ouestions;
 public class Solution7 {
 
     public String longestPalindrome(String s) {

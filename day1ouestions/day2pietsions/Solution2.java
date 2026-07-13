@@ -1,4 +1,4 @@
-package day2pietsions;
+package day1ouestions.day2pietsions;
 
 class Solution2 {
     public int strStr(String haystack, String needle) {

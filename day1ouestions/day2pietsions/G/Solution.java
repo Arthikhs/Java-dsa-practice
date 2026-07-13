@@ -1,3 +1,4 @@
+package day1ouestions.day2pietsions.G;
 public class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int[] count = new int[101];

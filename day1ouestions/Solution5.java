@@ -1,3 +1,4 @@
+package day1ouestions;
 public class Solution5 {
     public void nextPermutation(int[] nums) {
         int n = nums.length;

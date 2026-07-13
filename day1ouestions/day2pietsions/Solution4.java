@@ -1,3 +1,5 @@
+package day1ouestions.day2pietsions;
+package day2pietsions;
 public /**
  * Definition for singly-linked list.
  * public class ListNode {

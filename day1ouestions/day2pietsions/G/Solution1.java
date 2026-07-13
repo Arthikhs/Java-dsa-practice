@@ -1,3 +1,4 @@
+package day1ouestions.day2pietsions.G;
 class Solution1 {
     public int removeElement(int[] nums, int val) {
         int i = 0, n = nums.length;
