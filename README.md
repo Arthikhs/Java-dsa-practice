@@ -10,7 +10,8 @@ A collection of Data Structures and Algorithms problems solved in Java.
 2Java-dsa-practice/
 └── Arrays/
     ├── p1movezeroseend.java
-    └── p2movezerosfirst.java
+    ├── p2movezerosfirst.java
+    └── p6twosum.java
 ```
 
 ---
@@ -59,6 +60,27 @@ Output: 0 0 0 1 3 12
 
 ---
 
+#### 3. Two Sum — `p6twosum.java`
+
+**Problem:** Given an array and a target value, find the indices of the two numbers that add up to the target.
+
+**Approach:** Brute force (nested loops)
+- Use two loops to check every pair `arr[i] + arr[j]`
+- If the sum equals the target, print the indices `i` and `j`
+
+**Example:**
+```
+Input:  4
+        2 7 11 15
+        9
+Output: 0 1
+```
+
+**Time Complexity:** O(n²)  
+**Space Complexity:** O(1)
+
+---
+
 ## 🛠️ How to Run
 
 1. Clone the repo:
@@ -82,7 +104,7 @@ Output: 0 0 0 1 3 12
 
 | Topic   | Problems Solved |
 |---------|----------------|
-| Arrays  | 2              |
+| Arrays  | 3              |
 
 ---
 
