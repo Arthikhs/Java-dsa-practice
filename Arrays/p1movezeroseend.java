@@ -1,6 +1,6 @@
 package Arrays;
 import java.util.Scanner;
-public class p1movezeros {
+public class p1movezeroseend {
     public static void main(String[]args){
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
