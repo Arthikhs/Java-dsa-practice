@@ -1,6 +1,6 @@
 package day4;
 import java.util.Scanner;
-public class sectionsort {
+public class bubblesort {
     public static void main(String[]args){
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
