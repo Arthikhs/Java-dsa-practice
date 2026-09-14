@@ -10,6 +10,7 @@ public static void main(String[] args){
     }
     int first = arr[0];
     for(int i = 0;i<arr.length-1;i++);
+    
 
 }
 }
