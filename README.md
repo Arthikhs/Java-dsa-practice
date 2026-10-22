@@ -78,11 +78,6 @@ Java solutions for common Data Structures and Algorithms interview questions.
 | 2 | Rotate right to left |
 | 3 | Rotate left to right |
 
-## Stack and Queue
-| # | Problem |
-|---|---------|
-| 1 | Implement a stack using an array |
-
 ## Basic Mathematics and Numbers
 | # | Problem |
 |---|---------|
@@ -100,7 +95,7 @@ Java solutions for common Data Structures and Algorithms interview questions.
 | 12 | Log of a number |
 
 ## Coming Soon
+- Stack and Queue
 - Recursion and Backtracking
 - Trees and Binary Search Trees
 - Graphs and Dynamic Programming
-////
