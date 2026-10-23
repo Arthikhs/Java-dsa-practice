@@ -5,30 +5,28 @@ Java solutions for common Data Structures and Algorithms interview questions.
 ## Array Problems
 | # | Problem |
 |---|---------|
-| 1 | Move all zeros to the end |
-| 2 | Largest and second largest |
-| 3 | Reverse array |
-| 4 | Missing number (1 to N) |
-| 5 | Duplicate elements |
-| 6 | Remove duplicates in sorted array |
-| 7 | Two sum |
-| 8 | Maximum subarray |
-| 9 | Kadane's algorithm |
-| 10 | Merge two sorted arrays |
-| 11 | Sort array containing 0s, 1s, 2s |
-| 12 | Rotate array using extra array |
-| 13 | Reverse algorithm |
-| 14 | Union of two arrays |
-| 15 | Intersection of two arrays |
-| 16 | Remove duplicates |
-| 17 | Remove duplicates without collections |
-| 18 | Best time to buy and sell stock |
-| 19 | Majority elements |
-| 20 | Longest consecutive sequence |
-| 21 | Three sum |
-| 22 | Four sum |
-| 24 | Trapping rain water |
-| 25 | Element that appears only once |
+| 1 | Element that appears only once |
+| 2 | Trapping rain water |
+| 3 | Three sum |
+| 4 | Move all zeros to the end |
+| 5 | Largest and second largest |
+| 6 | Reverse array |
+| 7 | Missing number (1 to N) |
+| 8 | Duplicate elements |
+| 9 | Remove duplicates |
+| 10 | Two sum |
+| 11 | Maximum subarray |
+| 12 | Kadane's algorithm |
+| 13 | Merge two sorted arrays |
+| 14 | Sort array containing 0s, 1s, 2s |
+| 15 | Reverse algorithm |
+| 16 | Rotate array using extra array |
+| 17 | Union of two arrays |
+| 18 | Intersection of two arrays |
+| 19 | Remove duplicates without collections |
+| 20 | Remove duplicates |
+| 21 | Best time to buy and sell stock |
+| 22 | Majority elements |
 
 ## String Problems
 | # | Problem |
@@ -77,6 +75,7 @@ Java solutions for common Data Structures and Algorithms interview questions.
 | 1 | Reverse single linked list |
 | 2 | Rotate right to left |
 | 3 | Rotate left to right |
+| 4 | Find node |
 
 ## Basic Mathematics and Numbers
 | # | Problem |
